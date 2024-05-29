@@ -1,5 +1,4 @@
-## Marist Intro to Programming Classs
+# Marist Intro to Programming Class
+## Taught by Professor Berjerano
 
-# Taught by Professor Berjerano
-
-# Basics on Python, Algorithms, Sorting, Etc
+### Basics on Python, Algorithms, Sorting, Etc
